@@ -8,5 +8,5 @@ Celsius to Fahrenheit.
 > Convert Temperature e from Celsius to Fahrenheit 
 ## Contact
 Email: m.sombitpramanik@gmail.com <br>
-GitHub: YourGitHubUsername<br>
-Twitter: @YourTwitterHandle<br>
+GitHub: https://github.com/Sombitpramanik<br>
+Linkedin: https://www.linkedin.com/in/sombit-pramanik/<br>
